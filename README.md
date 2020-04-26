@@ -1,6 +1,6 @@
 ## Custom Command Prompt
 
-Custom Command Prompt based on windows *built in* command prompt <br />
+Custom Command Prompt based on windows' *built in* command prompt <br />
 
 ### Requirements
 
