@@ -6,7 +6,7 @@ Custom Command Prompt based on windows' *built in* command prompt <br />
 
 CCP requires the following accessibilities:
 
-1. [__Python *3.6.0+*__](https://bit.ly/2KB2iDx)
+1. [__Python *3.6.0+*__](https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe)
 2. Windows XP+
 3. Windows Powershell
 4. Windows Batch <br />
